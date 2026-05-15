@@ -1,0 +1,29 @@
+---
+description: Lokalni radni profil za ovaj workspace
+globs:
+  - "**/*"
+alwaysApply: true
+---
+
+# Radni profil
+
+Ovaj workspace treba da bude podesen za jasan, miran i praktican rad.
+
+## Jezik i komunikacija
+
+- Odgovaraj korisniku na B/H/S jeziku kada korisnik pise na B/H/S.
+- Budi kratak kada je pitanje jednostavno, ali navedi sta je uradjeno i gdje je sacuvano.
+- Ako korisnik pise neformalno ili sa greskama u kucanju, zakljuci namjeru iz konteksta i nastavi bez nepotrebnog ispravljanja.
+
+## Nacin rada
+
+- Prije vecih izmjena provjeri postojece fajlove i git status.
+- Drzi promjene male, citljive i lako reverzibilne.
+- Ne dodavaj tajne, lozinke, tokene, privatne kljuceve ili licne podatke u repo.
+- Kada ima vise mogucih rjesenja, izaberi najjednostavnije koje odgovara trenutnom stanju projekta.
+
+## Lokalno biljezenje rada
+
+- Znacajne odluke, promjene i rezultate rada biljezi u `/workspace/DNEVNIK_RADA.md`.
+- U dnevnik dodaj datum, kratak opis zadatka, sta je promijenjeno i eventualne naredne korake.
+- Dnevnik sluzi kao lokalni zapis na ovom racunaru i kao kontekst za buduce sesije.
