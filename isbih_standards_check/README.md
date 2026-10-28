@@ -1,30 +1,32 @@
-# Provjera BAS standarda (ISBIH katalog) — SPM / toplotna energija
+# Provjera STANDARDI_SPN prema ISBIH katalogu
 
-Izvor: [ISBIH Katalog](https://isbih.gov.ba/p/katalog) (`catalogue-api/list`, `standard_status=2` = Važeći).
+Izvor: https://isbih.gov.ba/p/katalog (provjera 28.10.2026, Europe/Sarajevo)
 
-## Status
+## Deliverables
 
-1. **STANDARDI_SPN.xlsx** (kolona A) — još nije učitan u okruženje. Nakon uploada/povezivanja OneDrive pokrenuti:
-   ```bash
-   python3 validate_standardi_spn.py /putanja/do/STANDARDI_SPN.xlsx
-   ```
-   Skripta dodaje kolonu **Nova oznaka (ISBIH važeća)** gdje je oznaka/izdanje promijenjeno i generiše listu standarda koji nedostaju.
+| Fajl | Opis |
+|------|------|
+| `STANDARDI_SPN_validated.xlsx` | Original + kolona **Nova oznaka**, ažurirana Izdanje/Važeće izdanje, Status ISBIH |
+| `standardi_nedostajuci_toplota.xlsx` / `.csv` | Važeći BAS standardi (mjerenje / obračun / isporuka / proračun) koji **nisu** u STANDARDI_SPN |
 
-2. **Katalog** — pretraženi važeći BAS standardi vezani za mjerenje, obračun/raspodjelu, isporuku (daljinsko grijanje) i proračun toplotne energije/opterećenja.
+## Rezime validacije kolone A (29 oznaka)
 
-## Ključni nalazi iz kataloga
+- **21** važeće
+- **5** promijenjena oznaka → popunjena kolona *Nova oznaka*
+- **1** povučen bez važeće BAS zamjene (`BAS ISO 9836:2018`)
+- **2** nisu pronađene (`BAS ISO 31004:2020`, `BAS IWA 31000:2022`)
 
-| Tema | Važeći BAS primjeri |
-|------|---------------------|
-| Mjerenje toplotne energije | `BAS EN 1434-1:2023` … `1434-6:2023`, `BAS EN 1434-3:2026`; smjernice `BAS CEN/TR 13582:2022` |
-| Raspodjela / obračun troškova | `BAS EN 834:2014` (+ Cor1:2016), `BAS EN 835:2010` |
-| Isporučni cjevovodi / DH | `BAS EN 253+A1:2025`, `13941-1/2+A1:2023`, `14419:2020`, `15632-*`, `15698-*`, `448`, `488-*`, `489-1` |
-| Proračun opterećenja / sistema | `BAS EN 12831-1:2021`, `15316-*`, `15378-*`, `12828+A1:2015` |
-| Korisna površina prostora | **Nije pronađen** BAS ekvivalent `ISO 9836` / naslovi o korisnoj površini u važećem katalogu |
+### Promjene oznaka
 
-## Fajlovi
+| Stara | Nova |
+|-------|------|
+| BAS EN 1434-3:2017 | BAS EN 1434-3:2026 |
+| BAS EN 13757-2:2019 | BAS EN 13757-2+A1:2025 |
+| BAS EN 13757-3:2019 | BAS EN 13757-3:2026 |
+| BAS EN 13757-4:2020 | BAS EN 13757-4:2026 |
+| BAS EN 13757-7:2019 | BAS EN 13757-7:2026 |
 
-- `standardi_toplota_jezgro.csv` — sužena lista (Oznaka; Naziv; Izdanje; Važeće izdanje; Link)
-- `standardi_toplota_kandidati.csv` — širi skup kandidata
-- `validate_standardi_spn.py` — validacija Excel kolone A vs ISBIH
-- `fetch_catalog.py` / `refine_and_enrich.py` — ponovno prikupljanje iz kataloga
+### Napomene
+
+- `BAS ISO 9836:2018` (korisna/površinske i zapreminske mjere zgrada): sva BAS izdanja su **povučena**; nema važeće BAS oznake u katalogu.
+- Šira lista infrastrukturnih DH cijevi: `standardi_nedostajuci_isporuka_infra.csv`.
