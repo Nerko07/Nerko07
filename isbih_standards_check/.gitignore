@@ -1,0 +1,4 @@
+data/raw_hits.json
+data/relevant_candidates.json
+fetch_log.txt
+refine_log.txt

@@ -1,0 +1,407 @@
+[
+  {
+    "id": "13",
+    "code": "01.040.27",
+    "description": "Prijenos energije i toplote (Rječnici)"
+  },
+  {
+    "id": "201",
+    "code": "17.200.10",
+    "description": "Toplota. Kalorimetrija"
+  },
+  {
+    "id": "315",
+    "code": "27",
+    "description": "TEHNIKA PRENOSA ENERGIJE I TOPLOTE"
+  },
+  {
+    "id": "316",
+    "code": "27.010",
+    "description": "Tehnika prijenosa energije i toplote općenito"
+  },
+  {
+    "id": "321",
+    "code": "27.060.30",
+    "description": "Kotlovi i izmjenjivači toplote"
+  },
+  {
+    "id": "1093",
+    "code": "27.080",
+    "description": "Toplotne pumpe"
+  },
+  {
+    "id": "330",
+    "code": "27.220",
+    "description": "Upotreba otpadne toplote. Toplotna izolacija"
+  },
+  {
+    "id": "894",
+    "code": "91.100.60",
+    "description": "Materijali za toplotnu i zvučnu izolaciju"
+  },
+  {
+    "id": "1336",
+    "code": "91.120.10",
+    "description": "Toplotna izolacija zgrada"
+  },
+  {
+    "id": "732",
+    "code": "71.120.30",
+    "description": "Izmjenjivači topline"
+  },
+  {
+    "id": "1421",
+    "code": "23.040.07",
+    "description": "Cjevovodi i dijelovi za daljinsko grijanje"
+  },
+  {
+    "id": "555",
+    "code": "47.020.90",
+    "description": "Brodski sistemi ventilacije, klimatizacije i grijanja"
+  },
+  {
+    "id": "1340",
+    "code": "91.140.10",
+    "description": "Sistemi centralnog grijanja"
+  },
+  {
+    "id": "1342",
+    "code": "91.140.65",
+    "description": "Oprema za grijanje vode"
+  },
+  {
+    "id": "940",
+    "code": "97.100",
+    "description": "Kućanski, komercijalni i industrijski uređaji za grijanje"
+  },
+  {
+    "id": "1357",
+    "code": "97.100.01",
+    "description": "Uređaji za grijanje općenito"
+  },
+  {
+    "id": "1423",
+    "code": "27.015",
+    "description": "Energetska efikasnost. Očuvanje energije općenito"
+  },
+  {
+    "id": "323",
+    "code": "27.120",
+    "description": "Nuklearna energetika"
+  },
+  {
+    "id": "327",
+    "code": "27.140",
+    "description": "Hidroenergetika"
+  },
+  {
+    "id": "328",
+    "code": "27.160",
+    "description": "Solarna energetika"
+  },
+  {
+    "id": "385",
+    "code": "29.240.30",
+    "description": "Upravljačka oprema za elektroenergetske sisteme"
+  },
+  {
+    "id": "401",
+    "code": "31.060.70",
+    "description": "Energetski kondenzatori"
+  },
+  {
+    "id": "425",
+    "code": "33.040.60",
+    "description": "Telekomunikacije putem energetskih vodova"
+  },
+  {
+    "id": "644",
+    "code": "65.040",
+    "description": "Poljoprivredne zgrade, postrojenja i instalacije"
+  },
+  {
+    "id": "1224",
+    "code": "65.040.01",
+    "description": "Poljoprivredne zgrade i instalacije opcenito"
+  },
+  {
+    "id": "646",
+    "code": "65.040.20",
+    "description": "Zgrade i instalacije za obradbu i skladištenje poljoprivrednih proizvoda"
+  },
+  {
+    "id": "647",
+    "code": "65.040.99",
+    "description": "Ostali standardi koje se odnose na poljoprivredne zgrade i instalacije"
+  },
+  {
+    "id": "864",
+    "code": "91.040",
+    "description": "Zgrade"
+  },
+  {
+    "id": "865",
+    "code": "91.040.01",
+    "description": "Zgrade općenito"
+  },
+  {
+    "id": "868",
+    "code": "91.040.30",
+    "description": "Stambene zgrade"
+  },
+  {
+    "id": "876",
+    "code": "91.080.01",
+    "description": "Konstrukcije zgrada općenito"
+  },
+  {
+    "id": "1335",
+    "code": "91.120",
+    "description": "Zaštita zgrada i zaštita u zgradama"
+  },
+  {
+    "id": "896",
+    "code": "91.120.01",
+    "description": "Zaštita zgrada i zaštita u zgradama općenito"
+  },
+  {
+    "id": "897",
+    "code": "91.120.20",
+    "description": "Akustika u zgradama. Zvučna izolacija"
+  },
+  {
+    "id": "901",
+    "code": "91.120.99",
+    "description": "Ostali standardi koji se odnose na zaštitu zgrada i zaštitu u zgradama"
+  },
+  {
+    "id": "1339",
+    "code": "91.140",
+    "description": "Instalacije u zgradama"
+  },
+  {
+    "id": "902",
+    "code": "91.140.01",
+    "description": "Instalacije u zgradama općenito"
+  },
+  {
+    "id": "908",
+    "code": "91.140.99",
+    "description": "Ostale instalacije u zgradama"
+  },
+  {
+    "id": "913",
+    "code": "91.190",
+    "description": "Građevinski pribor za zgrade"
+  },
+  {
+    "id": "1034",
+    "code": "17.040.20",
+    "description": "Svojstva površina"
+  },
+  {
+    "id": "308",
+    "code": "25.220",
+    "description": "Površinska obrada i prevačenje"
+  },
+  {
+    "id": "1089",
+    "code": "25.220.01",
+    "description": "Površinska obrada i prevlačenje općenito"
+  },
+  {
+    "id": "309",
+    "code": "25.220.10",
+    "description": "Priprema površina"
+  },
+  {
+    "id": "310",
+    "code": "25.220.20",
+    "description": "Površinska obrada"
+  },
+  {
+    "id": "1212",
+    "code": "59.080.40",
+    "description": "Tekstili sa površinskom prevlakom"
+  },
+  {
+    "id": "722",
+    "code": "71.100.40",
+    "description": "Površinski aktivni agensi"
+  },
+  {
+    "id": "10",
+    "code": "01.040.17",
+    "description": "Mjeriteljstvo i mjerenje. Fizikalne pojave (Rječnici)"
+  },
+  {
+    "id": "179",
+    "code": "17",
+    "description": "MJERITELJSTVO I MJERENJE. FIZIKALNE POJAVE"
+  },
+  {
+    "id": "180",
+    "code": "17.020",
+    "description": "Mjeriteljstvo i mjerenje općenito"
+  },
+  {
+    "id": "1033",
+    "code": "17.040",
+    "description": "Mjerenja dužina i uglova"
+  },
+  {
+    "id": "181",
+    "code": "17.040.01",
+    "description": "Mjerenja dužina i uglova općenito"
+  },
+  {
+    "id": "1035",
+    "code": "17.040.99",
+    "description": "Ostali standardi koji se odnose na mjerenja dužina i uglova"
+  },
+  {
+    "id": "184",
+    "code": "17.060",
+    "description": "Mjerenje zapremine, mase, gustoće, viskoznosti"
+  },
+  {
+    "id": "185",
+    "code": "17.080",
+    "description": "Mjerenje vremena, brzine, ubrzanja, ugaone brzine"
+  },
+  {
+    "id": "186",
+    "code": "17.100",
+    "description": "Mjerenje sile, težine i pritiska"
+  },
+  {
+    "id": "1036",
+    "code": "17.120",
+    "description": "Mjerenje protoka fluida"
+  },
+  {
+    "id": "187",
+    "code": "17.120.01",
+    "description": "Mjerenje protoka fluida općenito"
+  },
+  {
+    "id": "189",
+    "code": "17.140",
+    "description": "Akustika i akustična mjerenja"
+  },
+  {
+    "id": "1038",
+    "code": "17.140.01",
+    "description": "Akustična mjerenja i smanjenje buke općenito"
+  },
+  {
+    "id": "194",
+    "code": "17.160",
+    "description": "Vibracije, udari i mjerenja vibracija"
+  },
+  {
+    "id": "195",
+    "code": "17.180",
+    "description": "Optika i optička mjerenja"
+  },
+  {
+    "id": "196",
+    "code": "17.180.01",
+    "description": "Optika i optička mjerenja općenito"
+  },
+  {
+    "id": "197",
+    "code": "17.180.20",
+    "description": "Boje i mjerenje svjetlosti"
+  },
+  {
+    "id": "199",
+    "code": "17.180.99",
+    "description": "Ostali standardi koji se odnose na optiku i optička mjerenja"
+  },
+  {
+    "id": "200",
+    "code": "17.200",
+    "description": "Termodinamika i mjerenja temperature"
+  },
+  {
+    "id": "202",
+    "code": "17.200.20",
+    "description": "Mjerni instrumenti za mjerenje temperature"
+  },
+  {
+    "id": "203",
+    "code": "17.220",
+    "description": "Elektricitet. Magnetizam. Električna i magnetska mjerenja"
+  },
+  {
+    "id": "1041",
+    "code": "17.220.20",
+    "description": "Mjerenje električnih i magnetskih veličina"
+  },
+  {
+    "id": "206",
+    "code": "17.240",
+    "description": "Mjerenje zračenja"
+  },
+  {
+    "id": "273",
+    "code": "25.040.40",
+    "description": "Mjerenje i upravljanje u industrijskim procesima"
+  },
+  {
+    "id": "1150",
+    "code": "33.200",
+    "description": "Daljinsko upravljanje. Daljinsko mjerenje"
+  },
+  {
+    "id": "1170",
+    "code": "39.040.99",
+    "description": "Ostali instrumenti za mjerenje vremena"
+  },
+  {
+    "id": "758",
+    "code": "75.180.30",
+    "description": "Volumetrijska oprema i mjerenja"
+  },
+  {
+    "id": "136",
+    "code": "13.030.40",
+    "description": "Instalacije i oprema za odlaganje i obradu otpada"
+  },
+  {
+    "id": "370",
+    "code": "29.140.50",
+    "description": "Rasvjetni instalacijski sistemi"
+  },
+  {
+    "id": "388",
+    "code": "29.260.10",
+    "description": "Električne instalacije za vanjsku upotrebu"
+  },
+  {
+    "id": "1185",
+    "code": "47.020.50",
+    "description": "Palubna oprema i instalacije"
+  },
+  {
+    "id": "645",
+    "code": "65.040.10",
+    "description": "Nastambe, instalacije i oprema za stoku"
+  },
+  {
+    "id": "1225",
+    "code": "65.040.30",
+    "description": "Plastenici i ostale instalacije"
+  },
+  {
+    "id": "906",
+    "code": "91.140.70",
+    "description": "Sanitarne instalacije"
+  },
+  {
+    "id": "1350",
+    "code": "93.080.30",
+    "description": "Oprema i instalacije za ceste"
+  }
+]

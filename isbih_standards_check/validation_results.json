@@ -1,0 +1,670 @@
+[
+  {
+    "input": "BAS EN 834/Cor1:2016",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "exact_id": "289392",
+    "exact_link": "/standard/289392",
+    "valid_codes": [
+      "BAS EN 834/Cor1:2016"
+    ],
+    "all_family_codes": [
+      "BAS EN 834/Cor1:2016"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "detail_code": "BAS EN 834/Cor1:2016",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 834:2014",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "exact_id": "275866",
+    "exact_link": "/standard/275866",
+    "valid_codes": [
+      "BAS EN 834:2014"
+    ],
+    "all_family_codes": [
+      "BAS EN 834:2010",
+      "BAS EN 834:2014"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "2",
+    "status_label": "Važeći",
+    "title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "detail_code": "BAS EN 834:2014",
+    "vazece_izdanje": "2"
+  },
+  {
+    "input": "BAS EN 835:2010",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija – Uređaji bez  napajanja električnom energijom, baziran na principu isparavanja",
+    "exact_id": "262361",
+    "exact_link": "/standard/262361",
+    "valid_codes": [
+      "BAS EN 835:2010"
+    ],
+    "all_family_codes": [
+      "BAS EN 835:2010"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija – Uređaji bez  napajanja električnom energijom, baziran na principu isparavanja",
+    "detail_code": "BAS EN 835:2010",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS ISO 9836:2018",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Standardi performansi u građenju - Definicije i proračuni površinskih i zapreminskih pokazatelja",
+    "exact_id": "303678",
+    "exact_link": "/standard/303678",
+    "valid_codes": [],
+    "all_family_codes": [
+      "BAS ISO 9836:2010",
+      "BAS ISO 9836:2012",
+      "BAS ISO 9836:2018"
+    ],
+    "verdict": "POVUCEN",
+    "nova_oznaka": "",
+    "napomena": "Pronađena u katalogu ali nije važeća (status_id=3); nema važeće zamjene u istoj porodici.",
+    "izdanje": "3",
+    "status_label": "Povučen",
+    "title": "Standardi performansi u građenju - Definicije i proračuni površinskih i zapreminskih pokazatelja",
+    "detail_code": "BAS ISO 9836:2018",
+    "vazece_izdanje": "3"
+  },
+  {
+    "input": "BAS EN ISO 52016-1:2018",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Energetske karakteristike građevina - Energija potrebna za grijanje i hlađenje, unutrašnje temperature i osjetna i latentna toplotna opterećenja – Dio 1: Postupci proračuna",
+    "exact_id": "303870",
+    "exact_link": "/standard/303870",
+    "valid_codes": [
+      "BAS EN ISO 52016-1:2018"
+    ],
+    "all_family_codes": [
+      "BAS EN ISO 52016-1:2018"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Energetske karakteristike građevina - Energija potrebna za grijanje i hlađenje, unutrašnje temperature i osjetna i latentna toplotna opterećenja – Dio 1: Postupci proračuna",
+    "detail_code": "BAS EN ISO 52016-1:2018",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 17248:2020",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Daljinsko grijanje i daljinsko hlađenje sistema cjevovoda - Termini i definicije",
+    "exact_id": "313299",
+    "exact_link": "/standard/313299",
+    "valid_codes": [
+      "BAS EN 17248:2020"
+    ],
+    "all_family_codes": [
+      "BAS EN 17248:2020"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Daljinsko grijanje i daljinsko hlađenje sistema cjevovoda - Termini i definicije",
+    "detail_code": "BAS EN 17248:2020",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS CEN/TR 15378-2:2018",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Energetske karakteristike zgrada — Sistemi za grijanje i DHW u zgradama — Dio 2: Obrazloženje i pojašnjenje EN 15378-1, moduli M3-11 i M8-11\n",
+    "exact_id": "303730",
+    "exact_link": "/standard/303730",
+    "valid_codes": [
+      "BAS CEN/TR 15378-2:2018"
+    ],
+    "all_family_codes": [
+      "BAS CEN/TR 15378-2:2018"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Energetske karakteristike zgrada — Sistemi za grijanje i DHW u zgradama — Dio 2: Obrazloženje i pojašnjenje EN 15378-1, moduli M3-11 i M8-11\n",
+    "detail_code": "BAS CEN/TR 15378-2:2018",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 15316-4-8:2018",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-8: Sistemi za proizvodnju toplote za grijanje prostora, zračno grijanje i stropni sistemi grijanja zračenjem uključujući i grijalice",
+    "exact_id": "303767",
+    "exact_link": "/standard/303767",
+    "valid_codes": [
+      "BAS EN 15316-4-8:2018"
+    ],
+    "all_family_codes": [
+      "BAS EN 15316-4-8:2012",
+      "BAS EN 15316-4-8:2018"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "2",
+    "status_label": "Važeći",
+    "title": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-8: Sistemi za proizvodnju toplote za grijanje prostora, zračno grijanje i stropni sistemi grijanja zračenjem uključujući i grijalice",
+    "detail_code": "BAS EN 15316-4-8:2018",
+    "vazece_izdanje": "2"
+  },
+  {
+    "input": "BAS EN 15316-3:2018",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 3: Sistemi distribucije toplote u prostoru (PTV, grijanje i hlađenje), Model M3-6, M4-6, M8-6\n",
+    "exact_id": "303734",
+    "exact_link": "/standard/303734",
+    "valid_codes": [
+      "BAS EN 15316-3:2018"
+    ],
+    "all_family_codes": [
+      "BAS EN 15316-3:2018"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 3: Sistemi distribucije toplote u prostoru (PTV, grijanje i hlađenje), Model M3-6, M4-6, M8-6\n",
+    "detail_code": "BAS EN 15316-3:2018",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 15316-1:2018",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 1: Opće i energetsko predstavljanje karakteristika, moduli M3-1, M3-4, M3-9, M8-1, M8-4",
+    "exact_id": "303764",
+    "exact_link": "/standard/303764",
+    "valid_codes": [
+      "BAS EN 15316-1:2018"
+    ],
+    "all_family_codes": [
+      "BAS EN 15316-1:2010",
+      "BAS EN 15316-1:2018"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "2",
+    "status_label": "Važeći",
+    "title": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 1: Opće i energetsko predstavljanje karakteristika, moduli M3-1, M3-4, M3-9, M8-1, M8-4",
+    "detail_code": "BAS EN 15316-1:2018",
+    "vazece_izdanje": "2"
+  },
+  {
+    "input": "BAS CEN/TR 13582:2022",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Instaliranje mjerila toplotne energije - Smjernice za izbor, instaliranje i rad mjerila toplotne energije",
+    "exact_id": "325296",
+    "exact_link": "/standard/325296",
+    "valid_codes": [
+      "BAS CEN/TR 13582:2022"
+    ],
+    "all_family_codes": [
+      "BAS CEN/TR 13582:2022"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Instaliranje mjerila toplotne energije - Smjernice za izbor, instaliranje i rad mjerila toplotne energije",
+    "detail_code": "BAS CEN/TR 13582:2022",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 1434-1:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Mjerila toplotne energije – Dio 1: Opći zahtjevi",
+    "exact_id": "330682",
+    "exact_link": "/standard/330682",
+    "valid_codes": [
+      "BAS EN 1434-1:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-1:2009",
+      "BAS EN 1434-1:2016",
+      "BAS EN 1434-1:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Mjerila toplotne energije – Dio 1: Opći zahtjevi",
+    "detail_code": "BAS EN 1434-1:2023",
+    "vazece_izdanje": "4"
+  },
+  {
+    "input": "BAS EN 1434-2:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Mjerila toplotne energije – Dio 2: Konstrukcioni zahtjevi\r\n\r\n",
+    "exact_id": "330683",
+    "exact_link": "/standard/330683",
+    "valid_codes": [
+      "BAS EN 1434-2:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-2:2009",
+      "BAS EN 1434-2:2016",
+      "BAS EN 1434-2:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Mjerila toplotne energije – Dio 2: Konstrukcioni zahtjevi\r\n\r\n",
+    "detail_code": "BAS EN 1434-2:2023",
+    "vazece_izdanje": "4"
+  },
+  {
+    "input": "BAS EN 1434-3:2017",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Mjerila toplote- Dio 3: Razmjena podataka i sučelja (interfejsi)",
+    "exact_id": "301672",
+    "exact_link": "/standard/301672",
+    "valid_codes": [
+      "BAS EN 1434-3:2026"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-3:2010",
+      "BAS EN 1434-3:2017",
+      "BAS EN 1434-3:2026"
+    ],
+    "verdict": "PROMIJENJENA",
+    "nova_oznaka": "BAS EN 1434-3:2026",
+    "napomena": "Unesena oznaka nije važeća (status_id=3). Važeća oznaka: BAS EN 1434-3:2026",
+    "izdanje": "3",
+    "status_label": "Važeći",
+    "title": "Mjerila toplote - Dio 3: Razmjena podataka i interfejsi",
+    "detail_code": "BAS EN 1434-3:2026",
+    "vazece_izdanje": "3",
+    "izdanje_nove": "3"
+  },
+  {
+    "input": "BAS EN 1434-4:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Mjerila toplotne energije – Dio 4: Ispitivanja za odobrenje tipa\r\n",
+    "exact_id": "330684",
+    "exact_link": "/standard/330684",
+    "valid_codes": [
+      "BAS EN 1434-4:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-4:2009",
+      "BAS EN 1434-4:2016",
+      "BAS EN 1434-4:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Mjerila toplotne energije – Dio 4: Ispitivanja za odobrenje tipa\r\n",
+    "detail_code": "BAS EN 1434-4:2023",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 1434-5:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Mjerila toplotne energije – Dio 5: Ispitivanja za prvu verifikaciju\r\n",
+    "exact_id": "330685",
+    "exact_link": "/standard/330685",
+    "valid_codes": [
+      "BAS EN 1434-5:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-5:2009",
+      "BAS EN 1434-5:2016",
+      "BAS EN 1434-5:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Mjerila toplotne energije – Dio 5: Ispitivanja za prvu verifikaciju\r\n",
+    "detail_code": "BAS EN 1434-5:2023",
+    "vazece_izdanje": "4"
+  },
+  {
+    "input": "BAS EN 1434-6:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Mjerila toplotne energije – Dio 6: Instaliranje, stavljanje u upotrebu, postupak pregleda i održavanje",
+    "exact_id": "330686",
+    "exact_link": "/standard/330686",
+    "valid_codes": [
+      "BAS EN 1434-6:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 1434-6:2011",
+      "BAS EN 1434-6:2016",
+      "BAS EN 1434-6:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Mjerila toplotne energije – Dio 6: Instaliranje, stavljanje u upotrebu, postupak pregleda i održavanje",
+    "detail_code": "BAS EN 1434-6:2023",
+    "vazece_izdanje": "4"
+  },
+  {
+    "input": "BAS EN ISO 9000:2015",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Sistemi upravljanja kvalitetom - Osnovi i rječnik",
+    "exact_id": "293715",
+    "exact_link": "/standard/293715",
+    "valid_codes": [
+      "BAS EN ISO 9000:2015",
+      "BAS EN ISO 9000:2017"
+    ],
+    "all_family_codes": [
+      "BAS EN ISO 9000:2001",
+      "BAS EN ISO 9000:2006",
+      "BAS EN ISO 9000:2011",
+      "BAS EN ISO 9000:2015",
+      "BAS EN ISO 9000:2017"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "6",
+    "status_label": "Važeći",
+    "title": "Sistemi upravljanja kvalitetom - Osnovi i rječnik",
+    "detail_code": "BAS EN ISO 9000:2015",
+    "vazece_izdanje": "6"
+  },
+  {
+    "input": "BAS EN ISO 50001:2019",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Sistemi energetskog upravljanja – Zahtjevi s uputstvom za upotrebu",
+    "exact_id": "314566",
+    "exact_link": "/standard/314566",
+    "valid_codes": [
+      "BAS EN ISO 50001:2019"
+    ],
+    "all_family_codes": [
+      "BAS EN ISO 50001:2012",
+      "BAS EN ISO 50001:2015",
+      "BAS EN ISO 50001:2019"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "3",
+    "status_label": "Važeći",
+    "title": "Sistemi energetskog upravljanja – Zahtjevi s uputstvom za upotrebu",
+    "detail_code": "BAS EN ISO 50001:2019",
+    "vazece_izdanje": "3"
+  },
+  {
+    "input": "BAS ISO 31000:2019",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Upravljanje rizikom – Smjernice ",
+    "exact_id": "314558",
+    "exact_link": "/standard/314558",
+    "valid_codes": [
+      "BAS ISO 31000:2019"
+    ],
+    "all_family_codes": [
+      "BAS ISO 31000:2011",
+      "BAS ISO 31000:2016",
+      "BAS ISO 31000:2019"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "3",
+    "status_label": "Važeći",
+    "title": "Upravljanje rizikom – Smjernice ",
+    "detail_code": "BAS ISO 31000:2019",
+    "vazece_izdanje": "3"
+  },
+  {
+    "input": "BAS ISO 31004:2020",
+    "exact_found": false,
+    "exact_status_id": null,
+    "exact_title": null,
+    "exact_id": null,
+    "exact_link": null,
+    "valid_codes": [],
+    "all_family_codes": [],
+    "verdict": "NIJE_PRONADJEN",
+    "nova_oznaka": "",
+    "napomena": "Nije pronađen u ISBIH katalogu (pretraga po oznaci).",
+    "izdanje": "",
+    "status_label": "",
+    "title": null,
+    "vazece_izdanje": ""
+  },
+  {
+    "input": "BAS IWA 31000:2022",
+    "exact_found": false,
+    "exact_status_id": null,
+    "exact_title": null,
+    "exact_id": null,
+    "exact_link": null,
+    "valid_codes": [],
+    "all_family_codes": [],
+    "verdict": "NIJE_PRONADJEN",
+    "nova_oznaka": "",
+    "napomena": "Nije pronađen u ISBIH katalogu (pretraga po oznaci).",
+    "izdanje": "",
+    "status_label": "",
+    "title": null,
+    "vazece_izdanje": ""
+  },
+  {
+    "input": "BAS ISO 50004:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Sistemi upravljanja energijom — Vodič za implementaciju, održavanje i poboljšanje sistema upravljanja energijom po ISO 50001\n\n",
+    "exact_id": "329171",
+    "exact_link": "/standard/329171",
+    "valid_codes": [
+      "BAS ISO 50004:2023"
+    ],
+    "all_family_codes": [
+      "BAS ISO 50004:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Sistemi upravljanja energijom — Vodič za implementaciju, održavanje i poboljšanje sistema upravljanja energijom po ISO 50001\n\n",
+    "detail_code": "BAS ISO 50004:2023",
+    "vazece_izdanje": "1"
+  },
+  {
+    "input": "BAS EN 13757-1:2023",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Sistemi komunikacija za mjerila - Dio 1: Razmjena podataka",
+    "exact_id": "330485",
+    "exact_link": "/standard/330485",
+    "valid_codes": [
+      "BAS EN 13757-1:2023"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-1:2010",
+      "BAS EN 13757-1:2017",
+      "BAS EN 13757-1:2023"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "3",
+    "status_label": "Važeći",
+    "title": "Sistemi komunikacija za mjerila - Dio 1: Razmjena podataka",
+    "detail_code": "BAS EN 13757-1:2023",
+    "vazece_izdanje": "3"
+  },
+  {
+    "input": "BAS EN 13757-2:2019",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Komunikacioni sistem za brojila – Dio 2: Žičana M-Bus komunikacija",
+    "exact_id": "308776",
+    "exact_link": "/standard/308776",
+    "valid_codes": [
+      "BAS EN 13757-2+A1:2025"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-2:2010",
+      "BAS EN 13757-2:2019"
+    ],
+    "verdict": "PROMIJENJENA",
+    "nova_oznaka": "BAS EN 13757-2+A1:2025",
+    "napomena": "Unesena oznaka nije važeća (status_id=3). Važeća oznaka: BAS EN 13757-2+A1:2025",
+    "izdanje": "1",
+    "status_label": "Važeći",
+    "title": "Komunikacioni sistemi za brojila – Dio 2: Žičana M-Bus komunikacija",
+    "detail_code": "BAS EN 13757-2+A1:2025",
+    "vazece_izdanje": "1",
+    "izdanje_nove": "1"
+  },
+  {
+    "input": "BAS EN 13757-3:2019",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Komunikacioni sistem za brojila - Dio 3: Aplikacioni protokoli",
+    "exact_id": "308775",
+    "exact_link": "/standard/308775",
+    "valid_codes": [
+      "BAS EN 13757-3:2026"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-3:2010",
+      "BAS EN 13757-3:2017",
+      "BAS EN 13757-3:2019",
+      "BAS EN 13757-3:2026"
+    ],
+    "verdict": "PROMIJENJENA",
+    "nova_oznaka": "BAS EN 13757-3:2026",
+    "napomena": "Unesena oznaka nije važeća (status_id=3). Važeća oznaka: BAS EN 13757-3:2026",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Komunikacioni sistemi za brojila - Dio 3: Aplikacioni protokoli",
+    "detail_code": "BAS EN 13757-3:2026",
+    "vazece_izdanje": "4",
+    "izdanje_nove": "4"
+  },
+  {
+    "input": "BAS EN 13757-4:2020",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Komunikacioni sistemi za brojila - Dio 4: Bežična komunikacija na M-Busu",
+    "exact_id": "313311",
+    "exact_link": "/standard/313311",
+    "valid_codes": [
+      "BAS EN 13757-4:2026"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-4:2010",
+      "BAS EN 13757-4:2017",
+      "BAS EN 13757-4:2020",
+      "BAS EN 13757-4:2026"
+    ],
+    "verdict": "PROMIJENJENA",
+    "nova_oznaka": "BAS EN 13757-4:2026",
+    "napomena": "Unesena oznaka nije važeća (status_id=3). Važeća oznaka: BAS EN 13757-4:2026",
+    "izdanje": "4",
+    "status_label": "Važeći",
+    "title": "Komunikacioni sistemi za brojila - Dio 4: Bežična komunikacija na M-Busu",
+    "detail_code": "BAS EN 13757-4:2026",
+    "vazece_izdanje": "4",
+    "izdanje_nove": "4"
+  },
+  {
+    "input": "BAS EN 13757-5:2017",
+    "exact_found": true,
+    "exact_status_id": "2",
+    "exact_title": "Sistemi komunikacija za mjerila - Dio 5: Bežični M-Bus relejni prenos",
+    "exact_id": "301677",
+    "exact_link": "/standard/301677",
+    "valid_codes": [
+      "BAS EN 13757-5:2017"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-5:2010",
+      "BAS EN 13757-5:2017"
+    ],
+    "verdict": "VAZECI",
+    "nova_oznaka": "",
+    "napomena": "Oznaka je važeća u ISBIH katalogu.",
+    "izdanje": "2",
+    "status_label": "Važeći",
+    "title": "Sistemi komunikacija za mjerila - Dio 5: Bežični M-Bus relejni prenos",
+    "detail_code": "BAS EN 13757-5:2017",
+    "vazece_izdanje": "2"
+  },
+  {
+    "input": "BAS EN 13757-7:2019",
+    "exact_found": true,
+    "exact_status_id": "3",
+    "exact_title": "Komunikacioni sistem za brojila – Dio 7: Usluge transporta i sigurnosti",
+    "exact_id": "308774",
+    "exact_link": "/standard/308774",
+    "valid_codes": [
+      "BAS EN 13757-7:2026"
+    ],
+    "all_family_codes": [
+      "BAS EN 13757-7:2019",
+      "BAS EN 13757-7:2026"
+    ],
+    "verdict": "PROMIJENJENA",
+    "nova_oznaka": "BAS EN 13757-7:2026",
+    "napomena": "Unesena oznaka nije važeća (status_id=3). Važeća oznaka: BAS EN 13757-7:2026",
+    "izdanje": "2",
+    "status_label": "Važeći",
+    "title": "Komunikacioni sistemi za brojila – Dio 7: Usluge transporta i sigurnosti",
+    "detail_code": "BAS EN 13757-7:2026",
+    "vazece_izdanje": "2",
+    "izdanje_nove": "2"
+  }
+]
