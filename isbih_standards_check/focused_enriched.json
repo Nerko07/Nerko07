@@ -1,0 +1,1285 @@
+[
+  {
+    "oznaka": "BAS CEN/TR 13582:2022",
+    "naziv": "Instaliranje mjerila toplotne energije - Smjernice za izbor, instaliranje i rad mjerila toplotne energije",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2022-08-30",
+    "page_link": "https://isbih.gov.ba/standard/325296",
+    "related_codes": [
+      "BAS CEN/TR 13582:2022",
+      "BAS CR 13582:2011"
+    ],
+    "replacement_note": "BAS CEN/TR 13582:2022",
+    "base_code": "BAS CEN/TR 13582",
+    "_via": "q:toplotne energije",
+    "vazece_izdanje": "BAS CEN/TR 13582:2022"
+  },
+  {
+    "oznaka": "BAS EN 1434-3:2026",
+    "naziv": "Mjerila toplote - Dio 3: Razmjena podataka i interfejsi",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2026-06-25",
+    "page_link": "https://isbih.gov.ba/standard/342081",
+    "related_codes": [
+      "BAS EN 1434-3:2026",
+      "BAS EN 1434-3:2017"
+    ],
+    "replacement_note": "BAS EN 1434-3:2026",
+    "base_code": "BAS EN 1434-3",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-3:2026"
+  },
+  {
+    "oznaka": "BAS EN 13487:2020",
+    "naziv": "Izmjenjivači toplote - Zrakom hlađeni kondenzatori i suhi hladnjaci – Mjerenje zvuka",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313266",
+    "related_codes": [
+      "BAS EN 13487:2020",
+      "BAS EN 13487:2010"
+    ],
+    "replacement_note": "BAS EN 13487:2020",
+    "base_code": "BAS EN 13487",
+    "_via": "ics:27.060.30",
+    "vazece_izdanje": "BAS EN 13487:2020"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-10:2018",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-10: Sistemi na vjetar koji proizvode energiju, modul M11-8-7",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303762",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 15316-4-10",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-10:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-3:2018",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-3: Sistemi za proizvodnju toplote, toplotni i fotoelektrični solarni sistemi, Modul M3-8-3, M8-8-3, M11-8-3",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303756",
+    "related_codes": [
+      "BAS EN 15316-4-3:2018",
+      "BAS EN 15316-4-3:2011",
+      "BAS EN 15316-4-6:2011"
+    ],
+    "replacement_note": "BAS EN 15316-4-3:2018",
+    "base_code": "BAS EN 15316-4-3",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-3:2018"
+  },
+  {
+    "oznaka": "BAS EN 15450:2011",
+    "naziv": "Sistem grijanja u objektima - Projektovanje sistema grijanja sa toplotnom pumpom",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2011-11-21",
+    "page_link": "https://isbih.gov.ba/standard/265713",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 15450",
+    "_via": "q:BAS EN 15450",
+    "vazece_izdanje": "BAS EN 15450:2011"
+  },
+  {
+    "oznaka": "BAS EN ISO 20049-1:2021",
+    "naziv": "Čvrsta biogoriva - Određivanje samozagrijavanja paletizovanih biogoriva - Dio 1: Izotermalna kalorimetrija",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2021-07-06",
+    "page_link": "https://isbih.gov.ba/standard/318183",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 20049-1",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS EN ISO 20049-1:2021"
+  },
+  {
+    "oznaka": "BAS ISO 17743:2022",
+    "naziv": "Uštede energije - Definicija metodološkog okvira koji se primjenjuje na obračun i izvještavanje o uštedi energije",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2022-06-10",
+    "page_link": "https://isbih.gov.ba/standard/325183",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS ISO 17743",
+    "_via": "ics:27.010",
+    "vazece_izdanje": "BAS ISO 17743:2022"
+  },
+  {
+    "oznaka": "BAS CEN/TR 12831-4:2018",
+    "naziv": "Energetske karakteristike zgrada — Metoda  proračuna projektnog toplotnog opterećenja — Dio 4: Obrazloženje i pojašnjenje EN 12831-3, moduli M8-2, M8-3\n\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303720",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS CEN/TR 12831-4",
+    "_via": "ics:91.140",
+    "vazece_izdanje": "BAS CEN/TR 12831-4:2018"
+  },
+  {
+    "oznaka": "BAS CEN/TR 15316-6-8:2018",
+    "naziv": "Energetske karakteristike zgrada — Metoda za proračun zahtjeva energetskih sistema i efikasnosti sistema — Dio 6-8: Obrazloženje i pojašnjenje EN 15316-4-5 (Daljinsko grijanje i hlađenje), moduli M3-8-5, M4-8-5, M8-8-5, M11-8-5",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303758",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS CEN/TR 15316-6-8",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS CEN/TR 15316-6-8:2018"
+  },
+  {
+    "oznaka": "BAS EN 16798-1:2020",
+    "naziv": "Energetske karakteristike zgrada – Ventilacija u zgradama – Dio 1: Ulazni parametri unutrašnje sredine za projektovanje i ocjenjivanje energetskih karakteristika zgrada s akcentom na kvalitet unutrašnjeg zraka, toplotu sredine, osvjetljenje i akustiku – Modul M1-6",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313288",
+    "related_codes": [
+      "BAS EN 16798-1:2020",
+      "BAS EN 15251:2008"
+    ],
+    "replacement_note": "BAS EN 16798-1:2020",
+    "base_code": "BAS EN 16798-1",
+    "_via": "ics:91.140.01",
+    "vazece_izdanje": "BAS EN 16798-1:2020"
+  },
+  {
+    "oznaka": "BAS EN ISO 15927-5/A1:2013",
+    "naziv": "Higrotermalne karakterisitke objekata - Proračun i predstavljanje klimatskih podataka - Dio 5: Podaci za proračun toplotnog opterećenja za grijanje prostora",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2013-06-17",
+    "page_link": "https://isbih.gov.ba/standard/274483",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 15927-5/A1",
+    "_via": "ics:91.120.10",
+    "vazece_izdanje": "BAS EN ISO 15927-5/A1:2013"
+  },
+  {
+    "oznaka": "BAS EN ISO 15927-5:2009",
+    "naziv": "Higrotermalne karakterisitke objekata - Proračun i predstavljanje klimatskih podataka - Dio 5: Podaci za proračun toplotnog opterećenja za grijanje prostora",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2009-07-17",
+    "page_link": "https://isbih.gov.ba/standard/256571",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 15927-5",
+    "_via": "ics:91.120.10",
+    "vazece_izdanje": "BAS EN ISO 15927-5:2009"
+  },
+  {
+    "oznaka": "BAS EN ISO 52000-1:2019",
+    "naziv": "Energetske karakteristike zgrada – Sveobuhvatno ocjenjivanje EPB-a – Dio 1: Opći okvir i procedure",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2019-09-05",
+    "page_link": "https://isbih.gov.ba/standard/307225",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 52000-1",
+    "_via": "q:BAS EN ISO 52000",
+    "vazece_izdanje": "BAS EN ISO 52000-1:2019"
+  },
+  {
+    "oznaka": "BAS EN ISO 52016-1:2018",
+    "naziv": "Energetske karakteristike građevina - Energija potrebna za grijanje i hlađenje, unutrašnje temperature i osjetna i latentna toplotna opterećenja – Dio 1: Postupci proračuna",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-07-19",
+    "page_link": "https://isbih.gov.ba/standard/303870",
+    "related_codes": [
+      "BAS EN ISO 52016-1:2018",
+      "BAS EN ISO 13790:2008",
+      "BAS EN 15255:2008",
+      "BAS EN 15265:2008",
+      "BAS EN ISO 13791:2013",
+      "BAS EN ISO 13792:2013"
+    ],
+    "replacement_note": "BAS EN ISO 52016-1:2018",
+    "base_code": "BAS EN ISO 52016-1",
+    "_via": "q:BAS EN ISO 52016",
+    "vazece_izdanje": "BAS EN ISO 52016-1:2018"
+  },
+  {
+    "oznaka": "BAS EN ISO 52016-3:2024",
+    "naziv": "Energetske karakteristike zgrada – Energija potrebna za grijanje i hlađenje, unutrašnje temperature i osjetna i latentna toplotna opterećenja – Dio 3: Postupci proračuna u odnosu na prilagodljive elemente ovojnice zgrade",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2024-12-30",
+    "page_link": "https://isbih.gov.ba/standard/332308",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 52016-3",
+    "_via": "q:BAS EN ISO 52016",
+    "vazece_izdanje": "BAS EN ISO 52016-3:2024"
+  },
+  {
+    "oznaka": "BAS EN ISO 52018-1:2018",
+    "naziv": "Energetske karakteristike građevina - Pokazatelji za parcijalne ESG zahtjeve u vezi s ravnotežom toplotne energije i primijenjenim materijalima - Dio 1: Pregled opcija",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-07-19",
+    "page_link": "https://isbih.gov.ba/standard/303873",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 52018-1",
+    "_via": "q:toplotne energije",
+    "vazece_izdanje": "BAS EN ISO 52018-1:2018"
+  },
+  {
+    "oznaka": "BAS CEN/TS 17889:2026",
+    "naziv": "Cijevi za daljinsko grijanje - Fabrički izvedeni savitljivi sistemi cijevi  - Klasifikacija, zahtjevi i metode ispitivanja za kruto spojene sisteme ili sisteme koji nisu kruto spojeni s termoplastičnim armiranim priključnim cijevima (TRSP)",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340242",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS CEN/TS 17889",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS CEN/TS 17889:2026"
+  },
+  {
+    "oznaka": "BAS EN 13941-1+A1:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Projektovanje i ugradnja toplotno izolovanih, kruto spojenih pojedinačnih i duplih cjevovoda, za direktno polaganje u zemlju i  povezivanje  na toplovodnu mrežu – Dio 1: Projektovanje",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329935",
+    "related_codes": [
+      "BAS EN 13941-1+A1:2023",
+      "BAS EN 13941-1:2020"
+    ],
+    "replacement_note": "BAS EN 13941-1+A1:2023",
+    "base_code": "BAS EN 13941-1",
+    "_via": "q:BAS EN 13941",
+    "vazece_izdanje": "BAS EN 13941-1+A1:2023"
+  },
+  {
+    "oznaka": "BAS EN 13941-2+A1:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Projektovanje i ugradnja toplotno izolovanih, kruto spojenih pojedinačnih i duplih cjevovoda, za direktno polaganje u zemlju i  povezivanje  na toplovodnu mrežu – Dio 2: Ugradnja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329936",
+    "related_codes": [
+      "BAS EN 13941-2+A1:2023",
+      "BAS EN 13941-2:2020"
+    ],
+    "replacement_note": "BAS EN 13941-2+A1:2023",
+    "base_code": "BAS EN 13941-2",
+    "_via": "q:BAS EN 13941",
+    "vazece_izdanje": "BAS EN 13941-2+A1:2023"
+  },
+  {
+    "oznaka": "BAS EN 14419:2020",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovani podzemni toplovodi – Sistemi za nadzor",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313270",
+    "related_codes": [
+      "BAS EN 14419:2020",
+      "BAS EN 14419:2010"
+    ],
+    "replacement_note": "BAS EN 14419:2020",
+    "base_code": "BAS EN 14419",
+    "_via": "q:BAS EN 14419",
+    "vazece_izdanje": "BAS EN 14419:2020"
+  },
+  {
+    "oznaka": "BAS EN 15632-1:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovane fleksibilne cijevi – Dio 1: Podjela, opšti zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329953",
+    "related_codes": [
+      "BAS EN 15632-1:2023",
+      "BAS EN 15632-1:2010",
+      "BAS EN 15632-1+A1:2016"
+    ],
+    "replacement_note": "BAS EN 15632-1:2023",
+    "base_code": "BAS EN 15632-1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15632-1:2023"
+  },
+  {
+    "oznaka": "BAS EN 15632-2:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovane fleksibilne cijevi – Dio 2: Spojeni sistemi s plastičnim priključcima — Zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329952",
+    "related_codes": [
+      "BAS EN 15632-2:2023",
+      "BAS EN 15632-2:2012",
+      "BAS EN 15632-2+A1:2016"
+    ],
+    "replacement_note": "BAS EN 15632-2:2023",
+    "base_code": "BAS EN 15632-2",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15632-2:2023"
+  },
+  {
+    "oznaka": "BAS EN 15632-3:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovane fleksibilne cijevi – Dio 3: Nespojeni sistemi  s plastičnim priključcima — Zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329939",
+    "related_codes": [
+      "BAS EN 15632-3:2023",
+      "BAS EN 15632-3:2012",
+      "BAS EN 15632-3+A1:2016"
+    ],
+    "replacement_note": "BAS EN 15632-3:2023",
+    "base_code": "BAS EN 15632-3",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15632-3:2023"
+  },
+  {
+    "oznaka": "BAS EN 15632-4:2023",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovane fleksibilne cijevi – Dio 4: Spojeni sistemi s metalnim priključcima; zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2023-07-21",
+    "page_link": "https://isbih.gov.ba/standard/329940",
+    "related_codes": [
+      "BAS EN 15632-4:2023",
+      "BAS EN 15632-4:2010"
+    ],
+    "replacement_note": "BAS EN 15632-4:2023",
+    "base_code": "BAS EN 15632-4",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15632-4:2023"
+  },
+  {
+    "oznaka": "BAS EN 15698-1:2026",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovani podzemni dvocijevni toplovodi – Dio 1: Fabrički izrađen dvocijevni sklop čeličnog cjevovoda toplotne izolacije od poliuretana i polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340258",
+    "related_codes": [
+      "BAS EN 15698-1:2026",
+      "BAS EN 15698-1:2020"
+    ],
+    "replacement_note": "BAS EN 15698-1:2026",
+    "base_code": "BAS EN 15698-1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15698-1:2026"
+  },
+  {
+    "oznaka": "BAS EN 15698-2:2026",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovani podzemni dvocijevni toplovodi – Dio 2: Sklop fitinga i ventila za čelične kućne priključke, toplotno izolovanih poliuretanom i s vanjskim omotačem od polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340244",
+    "related_codes": [
+      "BAS EN 15698-2:2026",
+      "BAS EN 15698-2:2020"
+    ],
+    "replacement_note": "BAS EN 15698-2:2026",
+    "base_code": "BAS EN 15698-2",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 15698-2:2026"
+  },
+  {
+    "oznaka": "BAS EN 17248:2020",
+    "naziv": "Daljinsko grijanje i daljinsko hlađenje sistema cjevovoda - Termini i definicije",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313299",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 17248",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 17248:2020"
+  },
+  {
+    "oznaka": "BAS EN 17878-1:2025",
+    "naziv": "Cijevi za daljinsko grijanje - Fabrički proizvedeni sistemi savitljivih cijevi niskog temperaturnog profila - Dio 1: Podjela, opšti zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2025-06-05",
+    "page_link": "https://isbih.gov.ba/standard/335191",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 17878-1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 17878-1:2025"
+  },
+  {
+    "oznaka": "BAS EN 17878-2:2025",
+    "naziv": "Cijevi za daljinsko grijanje - Fabrički proizvedeni sistemi savitljivih cijevi niskog temperaturnog profila - Dio 2: Zahtijevi i ispitne metode za kruto spojene sisteme za plastični priključni cjevovod",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2025-06-05",
+    "page_link": "https://isbih.gov.ba/standard/335192",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 17878-2",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 17878-2:2025"
+  },
+  {
+    "oznaka": "BAS EN 17878-3:2025",
+    "naziv": "Cijevi za daljinsko grijanje - Fabrički proizvedeni sistemi savitljivih cijevi niskog temperaturnog profila - Dio 3:  Zahtjevi i ispitne metode za sisteme koji nisu  kruto spojeni  za  plastični priključni  cjevovod",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2025-06-05",
+    "page_link": "https://isbih.gov.ba/standard/335193",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 17878-3",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 17878-3:2025"
+  },
+  {
+    "oznaka": "BAS EN 253+A1:2025",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovani podzemni toplovodi – Fabrički izrađeni  elementi čeličnog cjevovoda s toplotnom  izolacijom  od poliuretana i polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2025-06-05",
+    "page_link": "https://isbih.gov.ba/standard/335198",
+    "related_codes": [
+      "BAS EN 253+A1:2025",
+      "BAS EN 253:2020"
+    ],
+    "replacement_note": "BAS EN 253+A1:2025",
+    "base_code": "BAS EN 253",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 253+A1:2025"
+  },
+  {
+    "oznaka": "BAS EN 448:2026",
+    "naziv": "Cjevovodi za daljinsko grijanje – Predizolovani podzemni toplovodi – Fabrički izrađen čelični cjevovod toplotne izolacije omotača od poliuretana i polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340263",
+    "related_codes": [
+      "BAS EN 448:2026",
+      "BAS EN 448:2020"
+    ],
+    "replacement_note": "BAS EN 448:2026",
+    "base_code": "BAS EN 448",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 448:2026"
+  },
+  {
+    "oznaka": "BAS EN 488-1:2026",
+    "naziv": "Cijevi za daljinsko grijanje - Jednocijevni predizolovani sistemi za direktno ukopane  toplovodne mreže - Dio 1: Fabrički sklop čeličnog zaustavnog ventila za čelične priključne cijevi, toplotne izolacije od poliuretana i vanjskog omotača od polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340267",
+    "related_codes": [
+      "BAS EN 488-1:2026",
+      "BAS EN 488:2020"
+    ],
+    "replacement_note": "BAS EN 488-1:2026",
+    "base_code": "BAS EN 488-1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 488-1:2026"
+  },
+  {
+    "oznaka": "BAS EN 488-2:2026",
+    "naziv": "Cijevi za daljinsko grijanje - Jednocijevni predizolovani sistemi za direktno ukopane  toplovodne mreže - Dio 2:  Fabrički sklop čeličnog ventila za čelične priključne cijevi, toplotne izolacije od poliuretana i vanjskog omotača od polietilena",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340272",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 488-2",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 488-2:2026"
+  },
+  {
+    "oznaka": "BAS EN 489-1:2020",
+    "naziv": "Cjevovodi za daljinsko grijanje – Jednocijevni i dvocijevni predizolovani sistem za ukopane toplovodne mreže – Dio 1: Sklop za spajanje omotača i toplotne izolacije za toplovodnu mrežu u skladu s EN 13941-1",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313293",
+    "related_codes": [
+      "BAS EN 489-1:2020",
+      "BAS EN 489:2010"
+    ],
+    "replacement_note": "BAS EN 489-1:2020",
+    "base_code": "BAS EN 489-1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 489-1:2020"
+  },
+  {
+    "oznaka": "BAS CEN/TR 16911:2016",
+    "naziv": "Kalorimetri – Preporuke za vodu za rad toplotnih sistema u industriji i kod gradskog grijanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2016-06-08",
+    "page_link": "https://isbih.gov.ba/standard/294926",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS CEN/TR 16911",
+    "_via": "q:BAS CEN/TR 16911",
+    "vazece_izdanje": "BAS CEN/TR 16911:2016"
+  },
+  {
+    "oznaka": "BAS EN 1148/A1:2011",
+    "naziv": "Izmjenjivači toplote – Izmjenjivači toplote voda/voda za daljinsko grijanje - Postupci ispitivanja za određivanje radnih karakteristika",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2011-05-09",
+    "page_link": "https://isbih.gov.ba/standard/262965",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 1148/A1",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 1148/A1:2011"
+  },
+  {
+    "oznaka": "BAS EN 1148:2011",
+    "naziv": "Izmjenjivači toplote – Izmjenjivači toplote voda/voda za daljinsko grijanje - Postupci ispitivanja za određivanje radnih karakteristika",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2011-05-09",
+    "page_link": "https://isbih.gov.ba/standard/262964",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 1148",
+    "_via": "q:daljinsko grijanje",
+    "vazece_izdanje": "BAS EN 1148:2011"
+  },
+  {
+    "oznaka": "BAS EN 12170:2011",
+    "naziv": "Sistemi grijanja u objektima - Postupak pripreme dokumenata za rad, održavanje i upotrebu - Sistemi grijanja koji zahtijevaju obučenog rukovaoca",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2011-11-21",
+    "page_link": "https://isbih.gov.ba/standard/265700",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 12170",
+    "_via": "q:BAS EN 12170",
+    "vazece_izdanje": "BAS EN 12170:2011"
+  },
+  {
+    "oznaka": "BAS EN 12171:2011",
+    "naziv": "Sistemi grijanja u objektima - Postupak pripreme dokumenata za rad, održavanje i upotrebu - Sistemi grijanja koji ne zahtijevaju obučenog rukovaoca",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2011-11-21",
+    "page_link": "https://isbih.gov.ba/standard/265701",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 12171",
+    "_via": "ics:91.140",
+    "vazece_izdanje": "BAS EN 12171:2011"
+  },
+  {
+    "oznaka": "BAS EN 1264-1:2022",
+    "naziv": "Površinski sistemi za grijanje i hlađenje vodom – Dio 1: Definicije i simboli",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326395",
+    "related_codes": [
+      "BAS EN 1264-1:2022",
+      "BAS EN 1264-1:2012"
+    ],
+    "replacement_note": "BAS EN 1264-1:2022",
+    "base_code": "BAS EN 1264-1",
+    "_via": "q:BAS EN 1264",
+    "vazece_izdanje": "BAS EN 1264-1:2022"
+  },
+  {
+    "oznaka": "BAS EN 1264-2:2022",
+    "naziv": "Površinski sistemi za grijanje i hlađenje vodom – Dio 2: Podno grijanje: Metode ispitivanja za određivanje toplotnih karakteristika podnog grijanja pomoću proračuna i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326396",
+    "related_codes": [
+      "BAS EN 1264-2:2022",
+      "BAS EN 1264-2+A1:2013"
+    ],
+    "replacement_note": "BAS EN 1264-2:2022",
+    "base_code": "BAS EN 1264-2",
+    "_via": "q:BAS EN 1264",
+    "vazece_izdanje": "BAS EN 1264-2:2022"
+  },
+  {
+    "oznaka": "BAS EN 1264-3:2022",
+    "naziv": "Površinski sistemi za grijanje i hlađenje vodom – Dio 3: Dimenzionisanje",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326397",
+    "related_codes": [
+      "BAS EN 1264-3:2022",
+      "BAS EN 1264-3:2011"
+    ],
+    "replacement_note": "BAS EN 1264-3:2022",
+    "base_code": "BAS EN 1264-3",
+    "_via": "q:BAS EN 1264",
+    "vazece_izdanje": "BAS EN 1264-3:2022"
+  },
+  {
+    "oznaka": "BAS EN 1264-4:2022",
+    "naziv": "Površinski sistemi za grijanje i hlađenje vodom – Dio 4: Ugradnja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326398",
+    "related_codes": [
+      "BAS EN 1264-4:2022",
+      "BAS EN 1264-4:2011"
+    ],
+    "replacement_note": "BAS EN 1264-4:2022",
+    "base_code": "BAS EN 1264-4",
+    "_via": "q:BAS EN 1264",
+    "vazece_izdanje": "BAS EN 1264-4:2022"
+  },
+  {
+    "oznaka": "BAS EN 1264-5:2022",
+    "naziv": "Površinski sistemi za grijanje i hlađenje vodom – Dio 5: Površinsko grijanje i hlađenje ugrađeno u podove, stropove i zidove - Određivanje toplotnog učinka",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326399",
+    "related_codes": [
+      "BAS EN 1264-5:2022",
+      "BAS EN 1264-5:2011"
+    ],
+    "replacement_note": "BAS EN 1264-5:2022",
+    "base_code": "BAS EN 1264-5",
+    "_via": "q:BAS EN 1264",
+    "vazece_izdanje": "BAS EN 1264-5:2022"
+  },
+  {
+    "oznaka": "BAS EN 12828+A1:2015",
+    "naziv": "Sistemi grijanja u objektima – Projektovanje vodenog sistema grijanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2015-06-22",
+    "page_link": "https://isbih.gov.ba/standard/280570",
+    "related_codes": [
+      "BAS EN 12828+A1:2015",
+      "BAS EN 12828:2013"
+    ],
+    "replacement_note": "BAS EN 12828+A1:2015",
+    "base_code": "BAS EN 12828",
+    "_via": "q:BAS EN 12828",
+    "vazece_izdanje": "BAS EN 12828+A1:2015"
+  },
+  {
+    "oznaka": "BAS EN 12831-1:2021",
+    "naziv": null,
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2021-10-26",
+    "page_link": "https://isbih.gov.ba/standard/327999",
+    "related_codes": [
+      "BAS EN 12831-1:2021",
+      "BAS EN 12831-1:2018"
+    ],
+    "replacement_note": "BAS EN 12831-1:2021",
+    "base_code": "BAS EN 12831-1",
+    "_via": "q:BAS EN 12831",
+    "vazece_izdanje": "BAS EN 12831-1:2021"
+  },
+  {
+    "oznaka": "BAS EN 12831-3:2018",
+    "naziv": "Energetske karakteristike zgrada – Metodа proračuna projektnog toplotnog opterećenja - Dio 3: Proračun potreba i toplotnog opterećenja sistema  potrošne tople vode u domaćinstvu, moduli M8-2, M8-3\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303715",
+    "related_codes": [
+      "BAS EN 12831-3:2018",
+      "BAS EN 15316-3-1:2010"
+    ],
+    "replacement_note": "BAS EN 12831-3:2018",
+    "base_code": "BAS EN 12831-3",
+    "_via": "q:BAS EN 12831",
+    "vazece_izdanje": "BAS EN 12831-3:2018"
+  },
+  {
+    "oznaka": "BAS EN 14336:2026",
+    "naziv": "Sistemi grijanja u objektima - Ugradnja i puštanje u rad vodenih sistema grijanja i hlađenja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340236",
+    "related_codes": [
+      "BAS EN 14336:2026",
+      "BAS EN 14336:2011"
+    ],
+    "replacement_note": "BAS EN 14336:2026",
+    "base_code": "BAS EN 14336",
+    "_via": "q:BAS EN 14336",
+    "vazece_izdanje": "BAS EN 14336:2026"
+  },
+  {
+    "oznaka": "BAS EN 15316-1:2018",
+    "naziv": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 1: Opće i energetsko predstavljanje karakteristika, moduli M3-1, M3-4, M3-9, M8-1, M8-4",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303764",
+    "related_codes": [
+      "BAS EN 15316-1:2018",
+      "BAS EN 15316-1:2010"
+    ],
+    "replacement_note": "BAS EN 15316-1:2018",
+    "base_code": "BAS EN 15316-1",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-1:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-2:2018",
+    "naziv": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 2: Sistemi za grijanje prostora zračenjem toplote (grijanje i hlađenje), Model M3-5, M4-5",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303733",
+    "related_codes": [
+      "BAS EN 15316-2:2018",
+      "BAS EN 15316-2-1:2010"
+    ],
+    "replacement_note": "BAS EN 15316-2:2018",
+    "base_code": "BAS EN 15316-2",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-2:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-3:2018",
+    "naziv": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 3: Sistemi distribucije toplote u prostoru (PTV, grijanje i hlađenje), Model M3-6, M4-6, M8-6\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303734",
+    "related_codes": [
+      "BAS EN 15316-3:2018",
+      "BAS EN 15316-2-3:2010",
+      "BAS EN 15316-3-2:2010"
+    ],
+    "replacement_note": "BAS EN 15316-3:2018",
+    "base_code": "BAS EN 15316-3",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-3:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-1:2018",
+    "naziv": "Energetske karakteristike zgrada - Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-1: Sistemi za proizvodnju toplote sagorijevanjem (kotlovi)",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303735",
+    "related_codes": [
+      "BAS EN 15316-4-1:2018",
+      "BAS EN 15316-3-3:2010",
+      "BAS EN 15316-4-1:2011",
+      "BAS EN 15316-4-7:2011"
+    ],
+    "replacement_note": "BAS EN 15316-4-1:2018",
+    "base_code": "BAS EN 15316-4-1",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-1:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-2/Cor1:2019",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-2: Sistemi za proizvodnju toplote, sistemi toplotnih pumpi, Modul M3-8-2, M8-8-2",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2019-05-31",
+    "page_link": "https://isbih.gov.ba/standard/307214",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 15316-4-2/Cor1",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-2/Cor1:2019"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-2:2018",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-2: Sistemi za proizvodnju toplote, sistemi toplotnih pumpi, Modul M3-8-2, M8-8-2\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/311259",
+    "related_codes": [
+      "BAS EN 15316-4-2:2018",
+      "BAS EN 15316-4-2:2011"
+    ],
+    "replacement_note": "BAS EN 15316-4-2:2018",
+    "base_code": "BAS EN 15316-4-2",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-2:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-4:2018",
+    "naziv": "Energetske karakteristike zgrada - Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-4: Sistemi za proizvodnju toplote, sistemi kogeneracije integrisani u objekt",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303747",
+    "related_codes": [
+      "BAS EN 15316-4-4:2018",
+      "BAS EN 15316-4-4:2011"
+    ],
+    "replacement_note": "BAS EN 15316-4-4:2018",
+    "base_code": "BAS EN 15316-4-4",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-4:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-5:2018",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-5: Sistemi daljinskog grijanja i hlađenja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303757",
+    "related_codes": [
+      "BAS EN 15316-4-5:2018",
+      "BAS EN 15316-4-5:2011"
+    ],
+    "replacement_note": "BAS EN 15316-4-5:2018",
+    "base_code": "BAS EN 15316-4-5",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-5:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-4-8:2018",
+    "naziv": "Energetske karakteristike zgrada – Metoda proračuna potreba za energijom sistema i efikasnosti sistema - Dio 4-8: Sistemi za proizvodnju toplote za grijanje prostora, zračno grijanje i stropni sistemi grijanja zračenjem uključujući i grijalice",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303767",
+    "related_codes": [
+      "BAS EN 15316-4-8:2018",
+      "BAS EN 15316-4-8:2012"
+    ],
+    "replacement_note": "BAS EN 15316-4-8:2018",
+    "base_code": "BAS EN 15316-4-8",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-4-8:2018"
+  },
+  {
+    "oznaka": "BAS EN 15316-5:2026",
+    "naziv": "Energetske karakteristike zgrada – Metodа proračuna potreba za energijom sistema i efikasnosti sistema – Dio 5: Akumulatori toplote za grijanje i PTV (bez hlađenja), modul M3-7, M8",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2026-06-05",
+    "page_link": "https://isbih.gov.ba/standard/340257",
+    "related_codes": [
+      "BAS EN 15316-5:2026",
+      "BAS EN 15316-5:2018"
+    ],
+    "replacement_note": "BAS EN 15316-5:2026",
+    "base_code": "BAS EN 15316-5",
+    "_via": "q:BAS EN 15316",
+    "vazece_izdanje": "BAS EN 15316-5:2026"
+  },
+  {
+    "oznaka": "BAS EN 15378-1:2018",
+    "naziv": "Energetske karakteristike zgrada - Nadzor nad kotlovima i sistemima grijanja - Dio 1: Kontrola kotlova, sistema za grijanje i PTV-a, moduli M3-11, M8-11",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303751",
+    "related_codes": [
+      "BAS EN 15378-1:2018",
+      "BAS EN 15378:2011"
+    ],
+    "replacement_note": "BAS EN 15378-1:2018",
+    "base_code": "BAS EN 15378-1",
+    "_via": "q:BAS EN 15378",
+    "vazece_izdanje": "BAS EN 15378-1:2018"
+  },
+  {
+    "oznaka": "BAS EN 15378-3:2018",
+    "naziv": "Energetske karakteristike zgrada - Nadzor nad kotlovima i sistemima grijanja - Dio 3: Mjerenje energetskih karakteristika, moduli M3-10, M8-10\n\n\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2018-06-22",
+    "page_link": "https://isbih.gov.ba/standard/303766",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 15378-3",
+    "_via": "q:BAS EN 15378",
+    "vazece_izdanje": "BAS EN 15378-3:2018"
+  },
+  {
+    "oznaka": "BAS EN 215:2020",
+    "naziv": "Termostatski radijatorski ventili - Zahtjevi i metode ispitivanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2020-12-21",
+    "page_link": "https://isbih.gov.ba/standard/313286",
+    "related_codes": [
+      "BAS EN 215:2020",
+      "BAS EN 215:2014",
+      "BAS EN 215/A1:2014"
+    ],
+    "replacement_note": "BAS EN 215:2020",
+    "base_code": "BAS EN 215",
+    "_via": "q:BAS EN 215",
+    "vazece_izdanje": "BAS EN 215:2020"
+  },
+  {
+    "oznaka": "BAS EN 442-1:2016",
+    "naziv": "Radijatori i konvektori – Dio 1: Tehničke specifikacije i zahtjevi ",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2016-08-18",
+    "page_link": "https://isbih.gov.ba/standard/289395",
+    "related_codes": [
+      "BAS EN 442-1:2016",
+      "BAS EN 442-1:2010",
+      "BAS EN 442-1/A1:2010",
+      "BAS EN 442-3:2010"
+    ],
+    "replacement_note": "BAS EN 442-1:2016",
+    "base_code": "BAS EN 442-1",
+    "_via": "q:BAS EN 442",
+    "vazece_izdanje": "BAS EN 442-1:2016"
+  },
+  {
+    "oznaka": "BAS EN 442-2:2016",
+    "naziv": "Radijatori i konvektori – Dio 2: Metode ispitivanja i određivanje karakteristika",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2016-08-18",
+    "page_link": "https://isbih.gov.ba/standard/289393",
+    "related_codes": [
+      "BAS EN 442-2:2016",
+      "BAS EN 442-2:2010",
+      "BAS EN 442-2/A1:2010",
+      "BAS EN 442-2/A2:2010"
+    ],
+    "replacement_note": "BAS EN 442-2:2016",
+    "base_code": "BAS EN 442-2",
+    "_via": "q:BAS EN 442",
+    "vazece_izdanje": "BAS EN 442-2:2016"
+  },
+  {
+    "oznaka": "BAS EN 834/Cor1:2016",
+    "naziv": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2016-08-18",
+    "page_link": "https://isbih.gov.ba/standard/289392",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 834/Cor1",
+    "_via": "q:BAS EN 834",
+    "vazece_izdanje": "BAS EN 834/Cor1:2016"
+  },
+  {
+    "oznaka": "BAS EN 834:2014",
+    "naziv": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija - Uređaji s napajanjem električnom energijom",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "2.",
+    "datum_objave": "2014-06-20",
+    "page_link": "https://isbih.gov.ba/standard/275866",
+    "related_codes": [
+      "BAS EN 834:2014",
+      "BAS EN 834:2010"
+    ],
+    "replacement_note": "BAS EN 834:2014",
+    "base_code": "BAS EN 834",
+    "_via": "q:BAS EN 834",
+    "vazece_izdanje": "BAS EN 834:2014"
+  },
+  {
+    "oznaka": "BAS EN 835:2010",
+    "naziv": "Razdjeljnici troškova toplote za određivanje potrošnje radijatora za grijanje prostorija – Uređaji bez  napajanja električnom energijom, baziran na principu isparavanja",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2010-12-17",
+    "page_link": "https://isbih.gov.ba/standard/262361",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 835",
+    "_via": "q:BAS EN 835",
+    "vazece_izdanje": "BAS EN 835:2010"
+  },
+  {
+    "oznaka": "BAS EN ISO 11855-4:2022",
+    "naziv": "Projektni uslovi termalnog komfora u zgradama - Ugradbeni zračeći sistemi za grijanje i hlađenje - Dio 4: Dimenzionisanje i proračun dinamičkog kapaciteta grijanja i hlađenja sistema termičkog aktiviranja  betonske jezgre  (TABS)",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2022-12-20",
+    "page_link": "https://isbih.gov.ba/standard/326421",
+    "related_codes": [
+      "BAS EN ISO 11855-4:2022",
+      "BAS EN ISO 11855-4:2016"
+    ],
+    "replacement_note": "BAS EN ISO 11855-4:2022",
+    "base_code": "BAS EN ISO 11855-4",
+    "_via": "ics:91.140",
+    "vazece_izdanje": "BAS EN ISO 11855-4:2022"
+  },
+  {
+    "oznaka": "BAS EN 1434-1:2023",
+    "naziv": "Mjerila toplotne energije – Dio 1: Opći zahtjevi",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2023-12-11",
+    "page_link": "https://isbih.gov.ba/standard/330682",
+    "related_codes": [
+      "BAS EN 1434-1:2023",
+      "BAS EN 1434-1+A1:2020"
+    ],
+    "replacement_note": "BAS EN 1434-1:2023",
+    "base_code": "BAS EN 1434-1",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-1:2023"
+  },
+  {
+    "oznaka": "BAS EN 1434-2:2023",
+    "naziv": "Mjerila toplotne energije – Dio 2: Konstrukcioni zahtjevi\r\n\r\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2023-12-11",
+    "page_link": "https://isbih.gov.ba/standard/330683",
+    "related_codes": [
+      "BAS EN 1434-2:2023",
+      "BAS EN 1434-2+A1:2020"
+    ],
+    "replacement_note": "BAS EN 1434-2:2023",
+    "base_code": "BAS EN 1434-2",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-2:2023"
+  },
+  {
+    "oznaka": "BAS EN 1434-4:2023",
+    "naziv": "Mjerila toplotne energije – Dio 4: Ispitivanja za odobrenje tipa\r\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2023-12-11",
+    "page_link": "https://isbih.gov.ba/standard/330684",
+    "related_codes": [
+      "BAS EN 1434-4:2023",
+      "BAS EN 1434-4+A1:2020"
+    ],
+    "replacement_note": "BAS EN 1434-4:2023",
+    "base_code": "BAS EN 1434-4",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-4:2023"
+  },
+  {
+    "oznaka": "BAS EN 1434-5:2023",
+    "naziv": "Mjerila toplotne energije – Dio 5: Ispitivanja za prvu verifikaciju\r\n",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2023-12-11",
+    "page_link": "https://isbih.gov.ba/standard/330685",
+    "related_codes": [
+      "BAS EN 1434-5:2023",
+      "BAS EN 1434-5+A1:2020"
+    ],
+    "replacement_note": "BAS EN 1434-5:2023",
+    "base_code": "BAS EN 1434-5",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-5:2023"
+  },
+  {
+    "oznaka": "BAS EN 1434-6:2023",
+    "naziv": "Mjerila toplotne energije – Dio 6: Instaliranje, stavljanje u upotrebu, postupak pregleda i održavanje",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "4.",
+    "datum_objave": "2023-12-11",
+    "page_link": "https://isbih.gov.ba/standard/330686",
+    "related_codes": [
+      "BAS EN 1434-6:2023",
+      "BAS EN 1434-6+A1:2020"
+    ],
+    "replacement_note": "BAS EN 1434-6:2023",
+    "base_code": "BAS EN 1434-6",
+    "_via": "q:BAS EN 1434",
+    "vazece_izdanje": "BAS EN 1434-6:2023"
+  },
+  {
+    "oznaka": "BAS ASTM D 240:2025",
+    "naziv": "Standardna metoda ispitivanja toplotne moći tečnih ugljovodonika goriva kalorimetrijskom bombom",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "3.",
+    "datum_objave": "2025-07-17",
+    "page_link": "https://isbih.gov.ba/standard/338405",
+    "related_codes": [
+      "BAS ASTM D 240:2025",
+      "BAS ASTM D 240:2013"
+    ],
+    "replacement_note": "BAS ASTM D 240:2025",
+    "base_code": "BAS ASTM D 240",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS ASTM D 240:2025"
+  },
+  {
+    "oznaka": "BAS CEN/TR 16632:2015",
+    "naziv": "Izotermalna kondiciona kalorimetrija za određivanje toplote hidratacije cementa: Izvještaj o stanju tehnike i preporuke",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2015-06-22",
+    "page_link": "https://isbih.gov.ba/standard/281284",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS CEN/TR 16632",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS CEN/TR 16632:2015"
+  },
+  {
+    "oznaka": "BAS EN 196-11:2020",
+    "naziv": "Metode ispitivanja cementa - Dio 11: Toplota hidratacije - Metoda izotermne provodne kalorimetrije",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2020-10-12",
+    "page_link": "https://isbih.gov.ba/standard/313205",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN 196-11",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS EN 196-11:2020"
+  },
+  {
+    "oznaka": "BAS EN ISO 11409:2015",
+    "naziv": "Plastika - Fenolne smole - Određivanje toplotne i temperaturne reakcije diferencijalnom skenirajućom kalorimetrijom",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2015-05-21",
+    "page_link": "https://isbih.gov.ba/standard/280706",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 11409",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS EN ISO 11409:2015"
+  },
+  {
+    "oznaka": "BAS EN ISO 21911-1:2024",
+    "naziv": "Čvrsta obnovljiva goriva - Utvrđivanje samozagrijavanja - Dio 1: Izotermna kalorimetrija",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2024-05-30",
+    "page_link": "https://isbih.gov.ba/standard/332581",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS EN ISO 21911-1",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS EN ISO 21911-1:2024"
+  },
+  {
+    "oznaka": "BAS ISO 16405:2015",
+    "naziv": "Ugao sobe i otvoreni kalorimetar - Vodič za uzorkovanje i mjerenje proizvodnje otpadnih gasova pomoću FTIR tehnike",
+    "status_id": "2",
+    "status": "Važeći",
+    "izdanje": "1.",
+    "datum_objave": "2015-06-12",
+    "page_link": "https://isbih.gov.ba/standard/283990",
+    "related_codes": [],
+    "replacement_note": "",
+    "base_code": "BAS ISO 16405",
+    "_via": "q:kalorimet",
+    "vazece_izdanje": "BAS ISO 16405:2015"
+  }
+]
